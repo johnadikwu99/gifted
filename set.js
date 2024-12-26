@@ -27,7 +27,7 @@ OWNER_NUMBER: process.env.OWNER_NUMBER || "2349068486092", // Only 1 owner Numbe
 OWNER_NAME: process.env.OWNER_NAME || "𝐆𝐈𝐅𝐓𝐄𝐃 𝐓𝐄𝐂𝐇", // Input Yours custom...(Maintain font for Flow)
 PACK_AUTHOR: process.env.PACK_AUTHOR || "𝐆𝐈𝐅𝐓𝐄𝐃 𝐓𝐄𝐂𝐇", // Added // Input Yours custom...
 PACK_NAME: process.env.PACK_NAME || "𝐆𝐈𝐅𝐓𝐄𝐃-𝐌𝐃💜", // Added // Input Yours custom...
-PREFIX: process.env.PREFIX || ".",
+PREFIX: process.env.PREFIX || "*",
 API_KEY: process.env.API_KEY || "gifted-md", // Replace with your unlimited api key
 // ANTIDELETE: process.env.ANTIDELETE || "false", // Still under development
 ANTILINK: process.env.ANTILINK || "false", //  Enter true to kick automatically or delete to delete without kicking or warn to warn before kicking
